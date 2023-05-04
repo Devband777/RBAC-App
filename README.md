@@ -1,4 +1,4 @@
-<h1 align="center">Role-Based-Access-Control NodeJS Application ( ◕▿◕ )</h1>
+<h1 align="center">Role-Based-Access-Control NodeJS Application</h1>
 <h3 align="center"> using <b>Node.JS</b>, <b>Express</b>, <b>Mongoose</b>, <b>Passport</b>, <b>Ejs</b> and <b>Tailwind CSS </b>  </h>
 </br></br>
 <p align="center">
@@ -64,5 +64,3 @@ MONGO_URI=mongodb://localhost:27017/mydatabase
 SESSION_SECRET=MySuperSecretSession
 ADMIN_EMAIL=admin@gmail.com
 ```
-
-<h2 align="center">さよなら 👋 </h2>
